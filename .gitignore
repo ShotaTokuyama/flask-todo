@@ -13,3 +13,6 @@ __pycache__/
 
 # Distribution / packaging
 *.egg-info/
+
+/instance/
+mypy.ini
